@@ -1,8 +1,8 @@
-#simumaq-node-red
+# simumaq-node-red
 
 Está é uma aplicação de teste para simular algumas maquinas e gerar dados para o envio a um banco de dados SQL Server
 
-##Como usar
+## Como usar
 
 Para clonar e rodar este repositório você irá precisar do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com o [npm](http://npmjs.com)) instalados no seu computadr. Na sua linha de comando:
 
